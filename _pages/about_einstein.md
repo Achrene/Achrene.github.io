@@ -1,5 +1,1 @@
-Welcome to my academic webpage! As of October 2023, I am a CNRS Postdoctal Fellow at CEA in Paris where I am working at the Laboratory Dynamics of Stars, exoplanets and their Environment (also known as LDE3) with Pierre-Olivier Lagage on the characterisation of exoplanetary atmospheres with the James Webb Space Telescope. 
-
-Being part of the Mid-Infrared Instrument Guaranteed Time Observations, I have a sound knowledge of JWST instruments. As an observer, my focus is on spectroscopic data reduction and analysis of exoplanetary atmospheres. My work mostly revolves around gaseous giant planets such as Hot Jupiters and Sub-Neptunes but I am also very curious about smaller and cooler planets, similar to the Earth.
-
-Lately, I have co-lead the publication of the MIRI transit of WASP-107b collected as a part of The JWST MIRI Garanteed Time Observation Program. I am now preparing for exciting new JWST data coming next year, as I am the PI of a calibration proposal to open a brand-new observation mode for our friends, the M-dwarfs aficionados. Soon, I'll be joining the NASA-AURA Space Telescope Science Institute as a Fellow to carry on my work on exoplanetary atmospheres as close as possible to the JWST experts.
+Nothing here yet.
