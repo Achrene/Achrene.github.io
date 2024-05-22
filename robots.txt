@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Achrene.github.io/al-folio/sitemap.xml
+Sitemap: https://Achrene.github.io/sitemap.xml
