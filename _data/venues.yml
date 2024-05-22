@@ -1,9 +1,27 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"A&A":
+  url: https://www.aanda.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"APJ":
+  url: https://iopscience.iop.org/journal/0004-637X
+  color: "#6fa8dc"
 
-"Vision":
-  color: "#009f36"
+"Nature":
+  url: https://www.nature.com/
+  color: "#741b47"
+
+"NatureAstro":
+  url: https://www.nature.com/natastron/
+  color: "#c27ba0"
+
+"MNRAS":
+  url: https://academic.oup.com/mnras
+  color: "#c90076"
+
+"SPIE":
+  url: https://www.spie.com/en
+  color: "#ffd966"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#93c47d"
