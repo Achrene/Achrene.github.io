@@ -42,43 +42,58 @@
       institution: National Polytechnic Institute ENSIACET, Toulouse, France
       year: 2019
 
-- title: Experience
+- title: Other Professional Experiences
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Internship in Industrial Engineering
+      institution: RENAULT Group, Curitiba, Brazil
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Engine production from diecast aluminium to assembly.
+        - Developed the engines’ pressure test optimisation plan.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - French “Elles en Seine - Remarkable Women” trophy winner
+        - Medal of the Merit award received from hometown Massy, France
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Award winner of the L’Oréal-UNESCO Rising Talent “For women in science” program
 
-- title: Academic Interests
+- title: Management and Leadership
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Member of the “Women and Science” Association membership, France (started 2023)
+    - title: Doctoral candidates’ representative at STEP’UP 560 doctoral school, Paris, France (2021-2023)
+    - title: Co-founder and vice-president of the "Cadeau engagé" French association membership (started 2020)
+    - title: Mentor program founder at the National Polytechnic Institute (INP) International Club, Toulouse, France (2016-2019)
 
+- title: Outreach, Press and Media
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Outreach conference in middle school classes in France ()
+        - Conference on gender equity on the International Women’s Rights Day at the Museum of Natural History in Paris
+        - Outreach conference as L’Oréal-UNESCO ambassador at the City of Science and Industry in Paris
+    - year: 2023
+      items:
+        - Interviews for Le Parisien, Courrier International and The Earth & Space Science News
+        - Invited seminar at the City of Science and Industry in Paris
+    - year: 2022
+      items:
+        - JWST Press conference organized by CEA-CNRS-CNES-Paris Observatory
+        - Outreach video for the “C’est toujours pas sorcier” documentary
+        - Interview on JWST for Arte-Twitch
+    - year: 2021
+      items: 
+        - “Guiana to the stars” Program
+          description:
+          - a three-week outreach program in French Guiana. We went to middle schools, and high schools and did general public conferences about Astronomy. We also promoted science among the youngest generations.
+      
 - title: Other Interests
   type: list
   contents:
