@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our JWST calibration proposal has just been accepted for Cycle 3.
-date: 2024-02-27 16:11:00-0400
+date: 2024-02-27
 inline: false
 related_posts: false
 ---
