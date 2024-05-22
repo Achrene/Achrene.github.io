@@ -8,6 +8,25 @@
     - name: Languages
       value: English, French, Armenian, Spanish
 
+- title: Current position
+  type: time_table
+  contents:
+    - title: Upcoming - Space Telescope Science Institute (STScI) Fellow in Exoplanetology
+      institution: Space Telescope Science Institute, Baltimore, USA
+      year: 2024 - 2028
+      description:
+        - 50 % - Mission support on the JWST NIRCam instrument
+        - 50 % - Independent research on exoplanetary science
+    - title: CNRS Postdoctoral Research Fellow in Exoplanetology
+      institution: French Alternative Energies and Atomic Energy Commission, Paris, France
+      year: 2023 - 2024
+      description: 
+        - Member of the JWST Early Release Science and Guaranteed Time Observation teams, and the Ariel European Consortium Coordinator of JWST MIRI GTO secondary eclipse working group for Cycle 1 and 2
+        - Project leader “Detection of SO2, silicate clouds but no CH4 in the atmosphere of the super-Neptune WASP-107b” Project leader “Detection of non-transiting companions orbiting a KOI and TOI F-type stars”
+        - Developer of the MIRISIM-TSO, ExoPhotometry and SIMRA simulation and modelling softwares
+        - Co-I of accepted proposals for JWST Cycle 2, Co-PI of HARPS-N accepted proposal
+        - PI of a JWST Cycle 3 accepted calibration proposal for exoplanetary science with MIRI
+
 - title: Education
   type: time_table
   contents:
@@ -23,15 +42,9 @@
     - title: Master’s degree (MSc) in Astronomical and Space-based Systems Engineering
       institution: Paris Observatory, Paris, France
       year: 2020
-      description:
-        - Description 1.
-        - Description 2.
     - title: Master’s degree (MSc) in Industrial Engineering
       institution: National Polytechnic Institute ENSIACET, Toulouse, France
       year: 2019
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
