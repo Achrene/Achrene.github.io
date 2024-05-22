@@ -3,19 +3,23 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Achrène
+middle_name:
+last_name: Dyrek
+email: achrene.dyrek@cea.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to my academic webpage! As of October 2023, I am a CNRS Postdoctal Fellow at CEA in Paris where I am working at the Laboratory Dynamics of Stars, exoplanets and their Environment (also known as LDE3) with Pierre-Olivier Lagage on the characterisation of exoplanetary atmospheres with the James Webb Space Telescope. 
+  Being part of the Mid-Infrared Instrument Guaranteed Time Observations, I have a sound knowledge of JWST instruments. As an observer, my focus is on spectroscopic data reduction and analysis of exoplanetary atmospheres.
+  My work mostly revolves around gaseous giant planets such as Hot Jupiters and Sub-Neptunes but I am also very curious about smaller and cooler planets, similar to the Earth. 
+  Lately, I have co-lead the publication of the MIRI transit of WASP-107b collected as a part of The JWST MIRI Garanteed Time Observation Program. I am now preparing for exciting new JWST data coming next year, as I am the PI of a calibration proposal to open a brand-new observation mode for our friends, the M-dwarfs aficionados. 
+  Soon, I'll be joining the NASA-AURA Space Telescope Science Institute as a Fellow to carry on my work on exoplanetary atmospheres as close as possible to the JWST experts.
+  Previously, I was a Ph.D. student in the same laboratory at the Astrophysics Department at CEA. My supervisor was Pierre-Olivier Lagage. My Ph.D. research focused on the characterization of exoplanet atmospheres with Spitzer and JWST. Throughout my degree, I had the chance to watch the James Webb leave the surface of the Earth, as I attended the launch for the European Spaceport in French Guiana. I also was really fortunate to work with the first JWST data as I participated to the MIRI calibration right after comissioning.  One of my other projects is the search and characterisation of non-transiting exoplanets with Kepler and the future PLATO mission.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: astrophysics, exoplanets, atmosphere, instrumentation # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🛰️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://Achrene.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -74,23 +78,23 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
+github_username: @Achrene # your GitHub user name
+gitlab_username: @Achrene # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: Achrène Dyrek, PhD. # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-7189-6463 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Dyrek Achrène # your profile on ResearchGate
 scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
@@ -103,12 +107,12 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: # your X handle
+x_username: @achrene_dyrek # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
