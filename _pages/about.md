@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 ---
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
-Welcome to my academic webpage! >
+Welcome to my academic webpage!
 
 As of October 2023, I am a CNRS Postdoctal Fellow at [CEA](https://www.cea.fr/english/Pages/Welcome.aspx) in Paris where I am working at the Laboratory Dynamics of Stars, exoplanets and their Environment (also known as [LDE3](https://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast_groupe.php?id_groupe=976)) on the characterisation of exoplanetary atmospheres with the James Webb Space Telescope. 
 
