@@ -11,7 +11,7 @@
 - title: Current position
   type: time_table
   contents:
-    - title: Upcoming - Space Telescope Science Institute (STScI) Fellow in Exoplanetology
+    - title: Upcoming - STScI Fellow in Exoplanetology
       institution: Space Telescope Science Institute, Baltimore, USA
       year: 2024 - 2028
       description:
@@ -21,10 +21,9 @@
       institution: French Alternative Energies and Atomic Energy Commission, Paris, France
       year: 2023 - 2024
       description: 
-        - Member of the JWST Early Release Science and Guaranteed Time Observation teams, and the Ariel European Consortium Coordinator of JWST MIRI GTO secondary eclipse working group for Cycle 1 and 2
-        - Project leader “Detection of SO2, silicate clouds but no CH4 in the atmosphere of the super-Neptune WASP-107b” Project leader “Detection of non-transiting companions orbiting a KOI and TOI F-type stars”
-        - Developer of the MIRISIM-TSO, ExoPhotometry and SIMRA simulation and modelling softwares
-        - Co-I of accepted proposals for JWST Cycle 2, Co-PI of HARPS-N accepted proposal
+        - Member of the JWST Early Release Science, the Guaranteed Time Observation teams, and the Ariel European Consortium
+        - Developer of the MIRISIM-TSO, ExoPhotometry and SIMRA simulation and modeling softwares
+        - Co-I of accepted proposals for JWST Cycle 2, Co-I of HARPS-N accepted proposal
         - PI of a JWST Cycle 3 accepted calibration proposal for exoplanetary science with MIRI
 
 - title: Education
@@ -34,11 +33,8 @@
       institution: French Alternative Energies and Atomic Energy Commission, Paris, France
       year: 2023
       description:
-        - PhD Title - Characterizing exoplanetary atmospheres with the James Webb Space Telescope.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Title - Characterizing exoplanetary atmospheres with the James Webb Space Telescope
+        - Supervisor - Prof. Pierre-Olivier Lagage
     - title: Master’s degree (MSc) in Astronomical and Space-based Systems Engineering
       institution: Paris Observatory, Paris, France
       year: 2020
@@ -59,32 +55,6 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
