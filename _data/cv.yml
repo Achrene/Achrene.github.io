@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Achrène Dyrek
+    - name: nationality
+      value: French
     - name: Languages
       value: English, French, Armenian, Spanish
 
