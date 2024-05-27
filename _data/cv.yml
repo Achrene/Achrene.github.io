@@ -64,12 +64,12 @@
         - Award winner of the L’Oréal-UNESCO Rising Talent “For women in science” program
 
 - title: Management and Leadership
-  type: nested_list
+  type: time_table
   contents:
-    - title: Member of the “Women and Science” Association membership, France (started 2023)
-    - title: Doctoral candidates’ representative at STEP’UP 560 doctoral school, Paris, France (2021-2023)
-    - title: Co-founder and vice-president of the "Cadeau engagé" French association membership (started 2020)
-    - title: Mentor program founder at the National Polytechnic Institute (INP) International Club, Toulouse, France (2016-2019)
+    - items: Member of the “Women and Science” Association membership, France (started 2023)
+    - items: Doctoral candidates’ representative at STEP’UP 560 doctoral school, Paris, France (2021-2023)
+    - items: Co-founder and vice-president of the "Cadeau engagé" French association membership (started 2020)
+    - items: Mentor program founder at the National Polytechnic Institute (INP) International Club, Toulouse, France (2016-2019)
 
 - title: Outreach, Press and Media
   type: time_table
