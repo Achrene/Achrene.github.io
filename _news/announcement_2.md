@@ -6,28 +6,28 @@ inline: false
 related_posts: false
 ---
 
-Our JWST calibration proposal on the Mid-Infrared Instrument has just been accepted for Cycle 3.
+Our JWST calibration proposal aims to open a brand-new observation mode with the Mid-Infrared Instrument (MIRI) to characterize exoplanets orbiting faint stars. M-dwarfs aficionados, this proposal is for you. 
+
+
 
 ---
+<p style="text-align:justify;">
+In this calibration proposal we offer to explore the feasibility of using the MIRI Low Reslution Spectrometer (LRS) in fixed-slit mode for the atmospheric characterisation of
+transiting exoplanets, observed when the planet passes in front of its host star. We aim to explore the possibility of expanding the range of accessible targets for time series observations (TSOs) with the MIRI LRS mode; exploiting the superior sensitivity of the LRS fixed-slit mode to probe cooler, lower-mass and fainter stars than are accessible with the LRS slitless mode, and avoiding some of the challenging systematics observed in the SLITLESSPRISM subarray so far. These observations will allow us to: 
+</p>
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>(1) compare the performance of the instrument in fixed-slit and slitless configurations for a known target that has been extensively observed with JWST </li>
+    <li>(2) understand the parameter space of exoplanet physical properties in which the LRS in fixed-slit mode is most valuable for time series observations</li>
+    <li>(3) produce a calibration recipe for these observations that can be adopted by the JWST calibration pipeline and offered to the community.</li>
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+More information on the proposal and the scheduling can be found  <a href="https://www.stsci.edu/jwst/science-execution/program-information?id=6219">here</a>.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+< !-- commentaire > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+> —Anais Nin -- >
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+
