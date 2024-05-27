@@ -2,7 +2,7 @@
 layout: page
 title: Photochemisty in inflated gasesous planets
 description: with background image
-img: assets/img/Wasp107b.pdf
+img: assets/img/Wasp107b.jpg
 importance: 1
 category: work
 related_publications: true
