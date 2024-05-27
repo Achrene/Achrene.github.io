@@ -27,7 +27,6 @@ transiting exoplanets, observed when the planet passes in front of its host star
 
 More information on the proposal and the scheduling can be found  <a href="https://www.stsci.edu/jwst/science-execution/program-information?id=6219">here</a>.
 
-< !-- commentaire > We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin -- >
+ 
 
 
