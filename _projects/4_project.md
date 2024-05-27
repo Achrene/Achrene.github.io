@@ -4,7 +4,7 @@ title: Flying
 description: 
 img: assets/img/WhatsApp1.jpg
 importance: 3
-category: personnal
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.
