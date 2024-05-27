@@ -33,11 +33,11 @@ These observations will allow us to:
 By opening this mode, we will be pushing the performances for eclipse spectroscopy (when the planet passes behind its host star). The MIRI LRS range offers a unique opportunity to characterise the exoplanetary thermal emission by observing the eclipse event. Eclipse depths are usually lower than transit depths as the stellar flux tends to dominate the planetary flux. In that context, eclipse spectroscopy is an observational challenge, particularly for cold planets. Observing modes that are able to reduce the thermal background and provide higher SNRs are therefore highly valuable for pushing the performance in eclipse spectroscopy.
 </p>
 
-div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/trappist-1b.jpg" title="Trappist-1b" class="img-fluid rounded z-depth-1" %}
-    </div>
+
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/trappist-1b.jpg" title="Trappist-1b" class="img-fluid rounded z-depth-1" %}
 </div>
+
 
 <div class="caption">
     Artistic view of the temperate rocky TRAPPIST-1b exoplanet orbiting a red dwarf star. Credit: NASA.
