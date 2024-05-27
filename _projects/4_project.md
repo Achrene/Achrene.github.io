@@ -22,7 +22,7 @@ Light aircrafts, launchers and everything in between 🚀
 </div>
 
 <div class="caption">
-    The Discovery US shuttle at the National Air and Space Museum - Steven F. Udvar-Hazy Center near Washington DC (2023).
+     Left and middle: The French Concorde and the Discovery US shuttle yet again at the National Air and Space Museum - Steven F. Udvar-Hazy Center near Washington DC (2023). Right: The Enterprise US shuttle at the Intrepid Museum in New York.
 </div>
 
 <div class="row">
@@ -38,7 +38,7 @@ Light aircrafts, launchers and everything in between 🚀
 </div>
 
 <div class="caption">
-     Left and middle: The French Concorde and the Discovery US shuttle yet again at the National Air and Space Museum - Steven F. Udvar-Hazy Center near Washington DC (2023). Right: The Enterprise US shuttle at the Intrepid Museum in New York.
+    The Discovery US shuttle at the National Air and Space Museum - Steven F. Udvar-Hazy Center near Washington DC (2023).
 </div>
 
 <div class="row">
