@@ -5,7 +5,6 @@ description:
 img: assets/img/JWST.jpg
 importance: 2
 category: professional
-giscus_comments: true
 ---
 
 
@@ -19,7 +18,7 @@ We aim to open a brand-new observation mode with the Mid-Infrared Instrument (MI
     </div>
 </div>
 <div class="caption">
-    Mid-Infrared Instrument Imager Focal Plane. Credit: Kendrew et al., 2015.
+    Mid-Infrared Instrument Imager Focal Plane. Credit: [STScI](https://jwst-docs.stsci.edu/jwst-mid-infrared-instrument/miri-observing-modes/miri-low-resolution-spectroscopy#gsc.tab=0).
 </div>
 
 <p style="text-align:justify;">
@@ -32,6 +31,16 @@ These observations will allow us to:
 </p>
 <p style="text-align:justify;">
 By opening this mode, we will be pushing the performances for eclipse spectroscopy (when the planet passes behind its host star). The MIRI LRS range offers a unique opportunity to characterise the exoplanetary thermal emission by observing the eclipse event. Eclipse depths are usually lower than transit depths as the stellar flux tends to dominate the planetary flux. In that context, eclipse spectroscopy is an observational challenge, particularly for cold planets. Observing modes that are able to reduce the thermal background and provide higher SNRs are therefore highly valuable for pushing the performance in eclipse spectroscopy.
+</p>
+div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/trappist-1b.jpg" title="Trappist-1b" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Artistic view of the temperate rocky TRAPPIST-1b exoplanet orbiting a red dwarf star. Credit: NASA.
+</div>
 
-A striking example is the case of the TRAPPIST-1 system (Gillon2017) which is composed of 7 temperate rocky exoplanets. Observations of TRAPPIST-1b and c using the MIRI imager in broadband photometry this year enabled to detect the planet occultations for the first time, and hence their day-side thermal emissions and brightness temperatures. To bring the temperate rocky observation to the next level, there is a need for spectroscopic observations. The flux drop during occultation being less than one percent (0.086 \% (greene_thermal_2023)), spectroscopic observations with the MIRI LRS in slitless mode require more than 30 eclipses to achieve a minimum level of signal-to-noise ratio (SNR). Calculations made with the  <a href="https://jwst-docs.stsci.edu/jwst-exposure-time-calculator-overview#gsc.tab=0">Exposure Time Calculator</a> show that by using the MIRI LRS slit mode, the SNR of one eclipse would be increased by a factor of 2.5, thus drastically reducing the overall observation time needed to guarantee strong results.
+<p style="text-align:justify;">
+A striking example is the case of the TRAPPIST-1 system (Gillon et al., [2017](http://www.nature.com/articles/nature21360)) which is composed of 7 temperate rocky exoplanets. Observations of TRAPPIST-1b and c using the MIRI imager in broadband photometry this year enabled to detect the planet occultations for the first time, and hence their day-side thermal emissions and brightness temperatures. To bring the temperate rocky observation to the next level, there is a need for spectroscopic observations. The flux drop during occultation being less than one percent (0.086 \% (Greene et al., [2023](https://www.nature.com/articles/s41586-023-05951-7))), spectroscopic observations with the MIRI LRS in slitless mode require more than 30 eclipses to achieve a minimum level of signal-to-noise ratio (SNR). Calculations made with the  <a href="https://jwst-docs.stsci.edu/jwst-exposure-time-calculator-overview#gsc.tab=0">Exposure Time Calculator</a> show that by using the MIRI LRS slit mode, the SNR of one eclipse would be increased by a factor of 2.5, thus drastically reducing the overall observation time needed to guarantee strong results.
 </p>
