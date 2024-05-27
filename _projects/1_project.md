@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photochemisty in inflated gasesous planets
+title: Photochemistry in inflated gasesous planets
 description:
 img: assets/img/Wasp107b.jpg
 importance: 1
