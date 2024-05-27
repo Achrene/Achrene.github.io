@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: A new mode for faint targets
+description: 
+img: assets/img/JWST.jpg
 importance: 2
 category: professional
 giscus_comments: true
