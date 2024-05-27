@@ -2,7 +2,7 @@
 layout: page
 title: Flying experience 🔆
 description: 
-img: assets/img/WhatsApp1.jpg
+img: assets/img/WhatsApp29_small.jpg
 importance: 3
 category: personal
 ---
