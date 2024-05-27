@@ -86,7 +86,7 @@ Light aircrafts, launchers and everything in between 🚀
 </div>
 
 <div class="caption">
-    Left: The hangar in Dieppe (2022). Middle: The Ariane V carrying James Webb heading to the launchpad (December 2021). Right: Entrance gate of the European Spaceport in Guiana.
+    Left: The hangar in Dieppe (2022). Middle: The Ariane V carrying James Webb heading to the launchpad (December 2021). Right: Main gate of the European Spaceport in Guiana.
 </div>
 
 <div class="row">
