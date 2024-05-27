@@ -18,7 +18,7 @@ We aim to open a brand-new observation mode with the Mid-Infrared Instrument (MI
     </div>
 </div>
 <div class="caption">
-    Mid-Infrared Instrument Imager Focal Plane. Credit: <a href="https://jwst-docs.stsci.edu/jwst-mid-infrared-instrument/miri-observing-modes/miri-low-resolution-spectroscopy#gsc.tab=0">STScI</a>.
+    Mid-Infrared Instrument Imager Focal Plane. The slit is located on the bottom part of the imager. Credit: <a href="https://jwst-docs.stsci.edu/jwst-mid-infrared-instrument/miri-observing-modes/miri-low-resolution-spectroscopy#gsc.tab=0">STScI</a>.
 </div>
 
 <p style="text-align:justify;">
