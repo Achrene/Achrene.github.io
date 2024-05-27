@@ -70,7 +70,7 @@ Light aircrafts, launchers and everything in between 🚀
 </div>
 
 <div class="caption">
-    Left: The Appolo 11 re-entry vehicle at the National Air and Space Museum in Washington DC (2022). Middle: Another Ariane V rocket at the Le Bourget airport in Paris (2023). Right: Bottom view of an Airbus A380 at the Le Bourget airport in Paris (2023). 
+    Left: The Appolo 11 re-entry vehicle at the National Air and Space Museum in Washington DC (2022). Middle: Bottom view of an Airbus A380 at the Le Bourget airport in Paris (2023). Right: Another Ariane V rocket at the Le Bourget airport in Paris (2023). 
 </div>
 
 <div class="row">
@@ -86,7 +86,7 @@ Light aircrafts, launchers and everything in between 🚀
 </div>
 
 <div class="caption">
-    Left: The JWST Instruments control room (2022). Middle: Go, Webb Go! At the Space Telescope Science Institute (2022). Right: Neil Armstrong's space suit at the National Air and Space Museum in Washington DC. 
+    Left: The JWST Instruments control room (2022). Middle: Go, Webb Go! At the Space Telescope Science Institute (2022). Right: Neil Armstrong's space suit at the National Air and Space Museum in Washington DC (2022). 
 </div>
 
 <div class="row">
@@ -118,7 +118,7 @@ Light aircrafts, launchers and everything in between 🚀
 </div>
 
 <div class="caption">
-    Flying experience in Dieppe, France (2022). We experienced an engine failure, we had to head back to the hangar.
+    Flying experience in Dieppe, France (2022).
 </div>
 
 <div class="row">
@@ -134,7 +134,7 @@ Light aircrafts, launchers and everything in between 🚀
 </div>
 
 <div class="caption">
-    Left: The hangar in Dieppe (2022). Middle: The Ariane V carrying James Webb heading to the launchpad (December 2021). Right: Main gate of the European Spaceport in Guiana.
+    Left: The hangar in Dieppe (2022). Middle: The Ariane V carrying James Webb heading to the launchpad (December 2021). Right: Main gate of the European Spaceport in Guiana (2021).
 </div>
 
 <div class="row">
