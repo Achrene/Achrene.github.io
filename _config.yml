@@ -6,13 +6,12 @@ title: Dr. Achrène Dyrek # the website title (if blank, full name will be used 
 first_name: Achrène
 middle_name:
 last_name: Dyrek
-email: achrene.dyrek@cea.fr
+email: adyrek@stsci.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to my academic webpage! As of October 2023, I am a CNRS Postdoctal Fellow at CEA in Paris where I am working at the Laboratory Dynamics of Stars, exoplanets and their Environment (also known as LDE3) with Pierre-Olivier Lagage on the characterisation of exoplanetary atmospheres with the James Webb Space Telescope. 
+  Welcome to my academic webpage! As of October 2024, I am a Postdoctal Fellow at the Space Telescope Science Institute in Baltimore where I am working on the characterisation of exoplanetary atmospheres with the James Webb Space Telescope. This fellowship comes with functional work, I have joined the NIRCam team for time series observations.
   Being part of the Mid-Infrared Instrument Guaranteed Time Observations, I have a sound knowledge of JWST instruments. As an observer, my focus is on spectroscopic data reduction and analysis of exoplanetary atmospheres.
   My work mostly revolves around gaseous giant planets such as Hot Jupiters and Sub-Neptunes but I am also very curious about smaller and cooler planets, similar to the Earth. 
   Lately, I have co-lead the publication of the MIRI transit of WASP-107b collected as a part of The JWST MIRI Garanteed Time Observation Program. I am now preparing for exciting new JWST data coming next year, as I am the PI of a calibration proposal to open a brand-new observation mode for our friends, the M-dwarfs aficionados. 
-  Soon, I'll be joining the NASA-AURA Space Telescope Science Institute as a Fellow to carry on my work on exoplanetary atmospheres as close as possible to the JWST experts.
   Previously, I was a Ph.D. student in the same laboratory at the Astrophysics Department at CEA. My supervisor was Pierre-Olivier Lagage. My Ph.D. research focused on the characterization of exoplanet atmospheres with Spitzer and JWST. Throughout my degree, I had the chance to watch the James Webb leave the surface of the Earth, as I attended the launch for the European Spaceport in French Guiana. I also was really fortunate to work with the first JWST data as I participated to the MIRI calibration right after comissioning.  One of my other projects is the search and characterisation of non-transiting exoplanets with Kepler and the future PLATO mission.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
