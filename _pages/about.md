@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my academic webpage!
 
-As of October 2023, I am a CNRS Postdoctal Fellow at [CEA](https://www.cea.fr/english/Pages/Welcome.aspx) in Paris where I am working at the Laboratory Dynamics of Stars, exoplanets and their Environment (also known as [LDE3](https://www.cea.fr/english/Pages/research-areas/matter-and-universe.aspx)) on the characterisation of exoplanetary atmospheres with the James Webb Space Telescope. 
+As of October 2024, I am a Postdoctal Fellow at the Space Telescope Science Institute in Baltimore where I am working on the characterisation of exoplanetary atmospheres with the James Webb Space Telescope. This fellowship comes with functional work, I have joined the NIRCam team for time series observations.
 
 Being part of the Mid-Infrared Instrument Guaranteed Time Observations, I have a sound knowledge of JWST instruments. As an observer, my focus is on spectroscopic data reduction and analysis of exoplanetary atmospheres. My work mostly revolves around gaseous giant planets such as Hot Jupiters and Sub-Neptunes but I am also very curious about smaller and cooler planets, similar to the Earth.
