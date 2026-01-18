@@ -6,7 +6,7 @@
     - name: Nationality
       value: French
     - name: Languages
-      value: English, French, Armenian, Spanish
+      value: English, French, Armenian, Spanish, Swedish (beginner)
 
 - title: Current position
   type: time_table
