@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-25
+date: 2026-01-16
 inline: true
 related_posts: false
 ---
 
-I am pleased to announce that I'll be joining the NASA-AURA Space Telescope Science Institute as a Fellow as of October 2024 ✨
+I am deeply honoured to be making the list of "The 200 Leaders of Tomorrow" curated by Institut Choiseul and revealed by Le Figaro for their historic 200th anniversary ✨
