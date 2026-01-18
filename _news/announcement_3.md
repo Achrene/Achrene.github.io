@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-04
+date: 2026-01-07
 inline: true
 related_posts: false
 ---
 
-The 2024  <a href="https://podcast.ausha.co/hauts-de-seine-les-podcasts/portraits-de-femmes-remarquables-des-hauts-de-seine">Remarkable Women</a> podcast will be out in July. Exciting news to come.
+Commissioning of the new <a href="https://jwst-docs.stsci.edu/jwst-near-infrared-camera/nircam-observing-modes/nircam-time-series-observations/nircam-short-wavelength-grism-time-series#gsc.tab=0">JWST NIRCam DHS mode</a> is scheduled for June 2026!
