@@ -17,6 +17,7 @@
       description:
         - 50 % - Mission support on the JWST NIRCam instrument
         - 50 % - Independent research on exoplanetary science
+        - Member of the Core Integration Team for the "Rocky Worlds" DDT
     - title: CNRS Postdoctoral Research Fellow in Exoplanetology
       institution: French Alternative Energies and Atomic Energy Commission, Paris, France
       year: 2023 - 2024
@@ -55,8 +56,12 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Honoree of “The 200 Leaders of Tomorrow” List from the French Choiseul Institute and Le Figaro Magazine
     - year: 2024
       items:
+        - PhD award winner of the French “Chancellerie des Universités de Paris”
         - French “Elles en Seine - Remarkable Women” trophy winner
         - Medal of the Merit award received from hometown Massy, France
     - year: 2023
@@ -78,6 +83,10 @@
 - title: Outreach, Press and Media
   type: time_table
   contents:
+    - year: 2025
+        - Outreach conference in high school classes in Baltimore, USA
+        - Contribution to an art exhibition in NY, "The Wanderer" from A. Zelinskie
+        - Conference at the US French Embassy in Washington DC
     - year: 2024
       items:
         - Outreach conference in middle school classes in France
@@ -99,4 +108,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Ballet, Piano, Flying experience (light aircrafts and gliders).
+    - <u>Hobbies:</u> Ballet, Boating, Flying experience (light aircrafts and gliders).
