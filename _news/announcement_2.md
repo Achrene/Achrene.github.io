@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Our JWST calibration proposal has just been accepted for Cycle 3!
-date: 2024-02-27
+title: We have submitted an SPIE abstract on our JWST MIRI calibration program. 
+date: 2025-12-05
 inline: false
 related_posts: false
 ---
