@@ -84,6 +84,7 @@
   type: time_table
   contents:
     - year: 2025
+      items:
         - Outreach conference in high school classes in Baltimore, USA
         - Contribution to an art exhibition in NY, The Wanderer from A. Zelinskie
         - Conference at the US French Embassy in Washington DC
