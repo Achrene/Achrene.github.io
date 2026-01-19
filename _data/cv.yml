@@ -6,7 +6,7 @@
     - name: Nationality
       value: French
     - name: Languages
-      value: English, French, Armenian, Spanish, Swedish (beginner)
+      value: English, French, Armenian, Spanish, Swedish (basics)
 
 - title: Current position
   type: time_table
@@ -85,7 +85,7 @@
   contents:
     - year: 2025
         - Outreach conference in high school classes in Baltimore, USA
-        - Contribution to an art exhibition in NY, "The Wanderer" from A. Zelinskie
+        - Contribution to an art exhibition in NY, The Wanderer from A. Zelinskie
         - Conference at the US French Embassy in Washington DC
     - year: 2024
       items:
